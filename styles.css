@@ -9,6 +9,9 @@ hr {
   width: 50px;
   margin: 8% auto;
 }
+p {
+  line-height: 2;
+}
 /* Nav Bar */
 .navbar-div {
   text-align: left;
