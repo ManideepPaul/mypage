@@ -1,0 +1,100 @@
+body {
+  text-align: center;
+}
+hr {
+  color: #6e3b3b;
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  width: 50px;
+  margin: 8% auto;
+}
+/* Nav Bar */
+.navbar-div {
+  text-align: left;
+}
+
+/* Title */
+h1 {
+  font-family: "Great Vibes",cursive;
+  font-size: 6rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: "Comfortaa",cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding: 4% 0;
+}
+.title {
+  background-color: #EAF6F6;
+}
+.top-cloud {
+  position: relative;
+  left: 35%;
+}
+.bottom-cloud {
+ position: absolute;
+ left: 15%;
+}
+
+/* middle container */
+h3 {
+  color: #66BFBF;
+  font-family: "Comfortaa" ,cursive;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.middle-container, .work, .skill, .title {
+  padding: 5% 0 0;
+}
+.profile-picture {
+  width: 10%;
+  border-radius: 100%
+}
+.computer {
+  float: left;
+  width: 25%;
+  margin-right: 5%;
+}
+.work {
+  width: 50%;
+  margin: auto;
+}
+.skill {
+  text-align: left;
+  margin: 10% 0 0;
+}
+.phone {
+  float: right;
+  width: 25%;
+  margin-left: 5%;
+}
+.freelance {
+  padding: 4% 0;
+}
+.btn {
+margin: 5% 0 0;
+}
+.btn:hover {
+  color: #8f1d14;
+}
+
+/* Footer */
+.footer {
+  background-color: #66BFBF;
+  color: #fff;
+  padding: 3% 0;
+  margin: 3% 0 0;
+  line-height: 3;
+}
+.footer-link {
+  margin: 2%;
+  font-style: none;
+}
+.footer-link:hover {
+  color: #fff;
+  font-weight: bolder;
+}
